@@ -1,0 +1,13 @@
+ int hight = 160;
+    int yourheight=160;
+    if(hight>yourheight);{
+        system.out.println("welcom");
+     }
+   else if (heigt>-yourheight)
+   {
+  system.out.println("you can join the train");
+}
+   else if (heigt>yourheight){system.out.println("you cont join the trean");}
+    
+ else
+ system.out.println("you can do it");
